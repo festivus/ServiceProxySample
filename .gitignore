@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/IServiceProxy/v15
+/IServiceProxy/bin/Debug/net46
+/IServiceProxy/obj
+/IServiceProxy/bin/Debug/net47/win7-x64
